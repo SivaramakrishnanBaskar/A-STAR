@@ -1,7 +1,7 @@
 <h1>Exp No 4 : Implement A* search algorithm for a Graph</h1> 
 
-<h3>Name: Sivaramakrishnan B
-<h3>Register Number: 212222110044
+<h2>Name: Sivaramakrishnan B
+<h2>Register Number: 212222110044
 <H3>Aim:</H3>
 <p>To ImplementA * Search algorithm for a Graph using Python 3.</p>
 <H3>Algorithm:</H3>
